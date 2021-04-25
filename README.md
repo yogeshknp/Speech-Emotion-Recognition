@@ -7,6 +7,9 @@ We have uploaded the video presentation of our code on youtube.
 Please check the link below:
 https://youtu.be/S-6A805iTI0 
 
+link to the dataset used in our project is:
+https://zenodo.org/record/1188976/files/Audio_Speech_Actors_01-24.zip?download=1
+
 This project is done by:
 Yogesh Yadav 170102073
 Mrinal Kanti Mahato 170102041
